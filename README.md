@@ -13,10 +13,8 @@ Programming Skills:
 - Android SDK
 
 Languages:
-- English \| Native
-- 
-󠁧󠁢- Italian \| Advanced
-- Spanish \| Basic
+- English
+- Italian
 
 Sports / Game / Activities / Hobby:
 
