@@ -18,8 +18,10 @@ English : Native
 Spanish : Basic
 
 Sports / Game / Activities / Hobby:
+
 Most importantly is I love learning languages. I love training my Dutch Shepherd and going to the gym. I'm a video game nerd so I play the
 occasional mmorpg and shooter here and there. I have a Camaro so I also like going to car based events.
 
 Connect with me:
+
 [GITHUB.COM/GIOVANNI21M](github.com/giovanni21m)
