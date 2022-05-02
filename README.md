@@ -3,11 +3,8 @@ I'm Giovanni Martinez. I love creating things people can simply pull up while on
 I figured the other majority of time users spend on their devices is surfing the web, and so now I am learning all aspects of Web Development.
 
 Programming Skills:
-
 JavaScript
-
 JQuery
-
 HTML
 CSS
 XML
