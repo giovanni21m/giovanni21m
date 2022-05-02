@@ -13,15 +13,13 @@ Programming Skills:
 - Android SDK
 
 Languages:
-- English / Native
- 
-󠁧󠁢- Italian / Advanced
-- Spanish / Basic
+- English \| Native
+󠁧󠁢- Italian \| Advanced
+- Spanish \| Basic
 
 Sports / Game / Activities / Hobby:
 
-Most importantly is I love learning languages. I love training my Dutch Shepherd and going to the gym. I'm a video game nerd so I play the
-occasional mmorpg and shooter here and there. I have a Camaro so I also like going to car based events.
+Most importantly is I love learning languages. I love training my Dutch Shepherd and going to the gym. I'm a video game nerd so I play Pokemon and Monster Hunter. I have a Camaro so I also like going to car based events.
 
 Connect with me:
 
