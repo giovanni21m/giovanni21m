@@ -1,6 +1,24 @@
-- 👋 Hi, I’m @giovanni21m or Giovanni Martinez. 
-- 👀 I’m interested in travelling, learning (yes, actually), training my Dutch Shepherd, and going to car based events.
-- 🌱 I’m currently learning Web Development. I put it off for some time as I had more of an interest in mobile development, but I absolutely love web dev and
--     it's time I finally enter the industry head strong.
-- 💞️ I’m looking to collaborate on open source projects that contribute to making life easier.
-- 📫 How to reach me - giovanni21martinez@gmail.com
+Hello 👋
+I'm Giovanni Martinez. I love creating things people can simply pull up while on the go - this is what led me to mobile development.
+I figured the other majority of time users spend on their devices is surfing the web, and so now I am learning all aspects of Web Development.
+
+Programming Skills:
+JavaScript
+JQuery
+HTML
+CSS
+XML
+Java
+Kotlin
+Android SDK
+Languages:
+English : Native
+󠁧󠁢󠁥Italian : Advanced
+Spanish : Basic
+
+Sports / Game / Activities / Hobby:
+Most importantly is my enjoyment of apropriating to another's country lifestyle and learning their language. I love training my Dutch Shepherd 
+and going to the gym. I have a Camaro so I also like going to car based events.
+
+Connect with me:
+[GITHUB.COM/GIOVANNI21M](github.com/giovanni21m)
