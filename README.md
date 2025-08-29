@@ -1,25 +1,52 @@
-Hello 👋
-I'm Giovanni Martinez. I love creating things people can simply pull up while on the go - this is what led me to mobile development.
-I figured the other majority of time users spend on their devices is surfing the web, and so now I am learning all aspects of Web Development.
+# 👋 Hi, I'm Giovanni Martinez  
 
-Programming Skills:
-- JavaScript
-- JQuery
-- HTML
-- CSS
-- XML
-- Java
-- Kotlin
-- Android SDK
+I’m a **Full Stack Web & Mobile Developer in progress** passionate about building scalable and user-friendly applications. My journey started with mobile development (Java, Kotlin, Android SDK), and I’ve since expanded into modern **web development** using React, Next.js, and TypeScript.  
 
-Languages:
-- English
+I enjoy creating tools and applications that solve real-world problems while continuously learning and applying best practices in performance, testing, and security.  
+
+---
+
+## 🛠️ Skills & Technologies  
+
+**Frontend**  
+- JavaScript (ES6+), TypeScript  
+- React, Next.js  
+- Tailwind CSS, PostCSS, Responsive Design  
+
+**Backend**  
+- Node.js, Express  
+- REST APIs, Authentication & Authorization  
+
+**Mobile**  
+- Kotlin, Android SDK  
+- React Native  
+
+**Databases & Tools**  
+- PostgreSQL, MongoDB, Firebase  
+- Git, GitHub, CI/CD (GitHub Actions)  
+- Testing (Jest, React Testing Library, Playwright)  
+- ESLint, Prettier  
+
+**Other Expertise**  
+- Security Best Practices (CSP, validation, XSS/SQLi prevention, secure sessions)  
+- Performance Optimization (ISR, Code Splitting, Image Optimization)  
+- Deployment Pipelines & Production Readiness  
+
+---
+
+## 🌍 Languages  
+- English  
 - Italian
+- Spanish
 
-Sports / Game / Activities / Hobby:
+---
 
-Most importantly is I love learning languages. I love training my Dutch Shepherd and going to the gym. I'm a video game nerd so I play Pokemon and Monster Hunter. I have a Camaro so I also like going to car based events.
+## 🚀 Current Focus  
+- Building **portfolio-ready full-stack projects** with Next.js + Node.js  
+- Improving **testing, security, and DevOps workflows**  
+- Leveraging **AI-assisted development** to boost productivity  
 
-Connect with me:
+---
 
-[GITHUB.COM/GIOVANNI21M](github.com/giovanni21m)
+## 📫 Connect with me  
+[**github.com/Giovanni21m**](https://github.com/Giovanni21m)
