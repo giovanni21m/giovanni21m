@@ -1,38 +1,33 @@
 # 👋 Hi, I'm Giovanni!
 
-I'm a **Full Stack Web & Mobile Developer** who loves building cool apps that people enjoy using. I started by making apps for phones (Java, Kotlin, Android), and now I build awesome websites using React, Next.js, and TypeScript!
+I'm an experienced **Tech Builder and Automation Expert** with hundreds of hours spent mastering how to make businesses run smoother and faster. I help businesses save time and grow by building premium websites and smart, automated systems!
 
-I love solving puzzles and making sure everything I build is **super fast and efficient**. In fact, I always keep **Big O** in mind so my code runs as quickly as possible and scales perfectly! 🚀
+Whether it involves building an amazing website or writing robots that do your boring tasks for you, I love solving puzzles. I always keep **Big O** in mind—which means I make sure every system I build is super fast, efficient, and ready to scale 🚀
 
 ---
 
-## 🛠️ What I Use to Build
+## 🌟 How I Can Help Your Business
+
+- **🤖 Business Automation:** I use **n8n** and AI to connect your apps so they talk to each other. I build workflows that run your business on autopilot!
+- **🎨 Premium Websites:** I build beautiful, high-converting websites (like the awesome **SpectraScales** pages) that turn visitors into customers.
+- **🗄️ Solid Backends:** I use **Supabase** and custom databases to keep all your data safe, organized, and lightning-fast.
+
+---
+
+## 🛠️ My Favorite Tools
+
+**For Automating the World:**
+- **n8n** (My superpower for building automated workflows)
+- AI tools & APIs
 
 **For the front of the website (Frontend):**
-- JavaScript & TypeScript (The language of the web!)
-- React & Next.js (For making things look great and work smoothly)
-- Tailwind CSS (For stylish and fun designs, like my recent work on the **SpectraScales** landing pages!)
+- React & Next.js 
+- Tailwind CSS (For gorgeous, modern designs)
+- JavaScript & TypeScript
 
 **For the back of the website (Backend & Databases):**
-- Node.js & Express (The engine behind the scenes)
-- Supabase, PostgreSQL, MongoDB, Firebase (Where I store all the important data safely and correctly)
-
-**For mobile phones:**
-- Kotlin & Android SDK
-- React Native
-
-**Other Cool Stuff:**
-- **Security:** Making sure apps are safe from bad guys.
-- **Speed:** Making websites load in the blink of an eye.
-- **Testing:** Checking my work so there are no bugs!
-
----
-
-## 🌟 What I'm Doing Right Now
-
-- 🎨 Adding premium and playful styles to the **SpectraScales** website to make it look amazing!
-- 🗄️ Working with **Supabase** to make sure database tables and security rules are perfectly set up.
-- 🤖 Using AI to help me code faster and learn new things every day!
+- Node.js & Express
+- Supabase & PostgreSQL
 
 ---
 
@@ -44,6 +39,8 @@ I love solving puzzles and making sure everything I build is **super fast and ef
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Ready to build something amazing? Let's talk!
 
-[**Check out my GitHub!**](https://github.com/Giovanni21m)
+If you want to save time with automation using n8n or need a premium website, let's connect!
+
+[**Reach out to me here on GitHub!**](https://github.com/Giovanni21m)
